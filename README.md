@@ -1,6 +1,6 @@
 # Project Title: Hotel fee calculation 
 The pyton project that I push in Git calculates a hotel rate based on numberes of night stayng varyng prices based on persons ages. 
- The python progrm from repository should charge $200.00 per night if the person is 18-25 years old, 150.00 if the person is 26-64 years old and $120.00 if the person is 65 or older.
+The python progrm from repository should charge $200.00 per night if the person is 18-25 years old, 150.00 if the person is 26-64 years old and $120.00 if the person is 65 or older.
  
 ##Project Instructions:
 Once installed you can run the LabCh.5.1.py program and the program should ask for their age and number of nights stay, output their nightly, rate and also output their total cost. If the person is below age 18 you shuld receive a message that they are too young to rent a room.
