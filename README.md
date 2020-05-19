@@ -1,33 +1,28 @@
-# Project Title
+# Project Title: GitHub Repository for project 
+A repository is a folder for our project. Our project's repository contains all of our project's files and stores each file's revision history. Also we can discuss and manage our project's work within the repository. We can own repositories individually, or wou can share ownership of repositories with other people in an organization. We can restrict who has access to a repository by choosing the repository's visibility. For user-owned repositories, we can give other people collaborator access so that they can collaborate on your project. If a repository is owned by an organization, wou can give organization members access permissions to collaborate on our repository. To do the project we need to execute other activities like install GitHub and others instructions and prerequisites. Reference: (https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories). The pyton project that I push in Git calculates a hotel rate based on numberes of night stayng varyng prices based on persons ages. 
+ 
+##Project Instructions:
+Create A repository named CNA340_<Name> on GitHub.
+Create local git repository using console (gitinit).
+Add our last python homework assignment (LabCh.5.1.py) to the repository. The python progrm from repository should charge $200.00 per night if the person is 18-25 years old, 150.00 if the person is 26-64 years old and $120.00 if the person is 65 or older.
+Commit and Push to GitHub.
 
-One Paragraph of project description goes here
+##Project Prerequisites:
+Downland and instal GitHub Dekstop. Refference:htps://windows.github.com
+Git-2.26.2-64-bit. Refference: [GitHub Pages](https://pages.github.com/)
+Requared comands are discribed on refferences sitees.
 
-## Getting Started
+##Rouning:
+Once installed you can run the LabCh.5.1.py program and the program should ask for their age and number of nights stay, output their nightly, rate and also output their total cost. If the person is below age 18 you shuld receive a message that they are too young to rent a room.
 
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+####Python LabCh.5.1.py demo:
+Enter your age:
+46
+Enter nights:
+1
 
-### Prerequisites
+####Python demo.py test.txt
+Your nightly rate is $150.00
+Your total cost is $150.00
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
-
-## Running
-Once installed you can run the program with the following command
-
-```
-python demo.py
-```
-
-Add any additional ways to run the program below
-
-```
-python demo.py test.txt
-```
-
-## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+######Thanks proffesor Zak, for advising and teaching.
